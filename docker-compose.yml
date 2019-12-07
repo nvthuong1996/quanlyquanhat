@@ -1,0 +1,23 @@
+#-------------------------------------------------------------------------------------------------------------
+# Copyright (c) Microsoft Corporation. All rights reserved.
+# Licensed under the MIT License. See https://go.microsoft.com/fwlink/?linkid=2090316 for license information.
+#-------------------------------------------------------------------------------------------------------------
+
+version: '2.1'
+services:
+  db:
+    image: mysql:5.7
+    restart: always
+    volumes:
+      - ./db_data:/var/lib/mysql
+      - ./docker-entrypoint-initdb:/docker-entrypoint-initdb.d
+#    command: --init-file /data/application/init.sql
+    expose:
+      - 3306
+    ports:
+      - "3308:3308"
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=quanlyquanhat
+      - MYSQL_USER=test
+      - MYSQL_PASSWORD=test

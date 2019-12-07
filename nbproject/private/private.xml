@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/model/dao/DAOFactory.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/model/dao/jdbcimpl/BangCongImpl.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/quanlyquanhatkaraoke/application/CheckInCheckOutFrm.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/model/dao/jdbcimpl/NguoiDaoImpl.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/model/dao/TaiKhoanDAO.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/model/dao/NguoiDAO.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/quanlyquanhatkaraoke/application/Login.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/quanlyquanhatkaraoke/test/datapciker.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/quanlyquanhatkaraoke/test/FXDatePickerInSwingExample.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/model/dao/BangCongDAO.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/quanlyquanhatkaraoke/application/QuanLyHome.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/model/dao/LichDangKyDAO.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/model/dao/jdbcimpl/NguoiDungDaoImpl.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/quanlyquanhatkaraoke/application/CaLamViecFrm.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/model/dao/UserDAO.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/model/dao/jdbcimpl/CaLamViecImpl.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/quanlyquanhatkaraoke/application/DuyetDangKyLichFrm.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/quanlyquanhatkaraoke/test/testdao.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/model/dao/NguoiDungDAO.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/model/dao/jdbcimpl/LichDangKyImpl.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/model/dao/jdbcimpl/TaiKhoanDaoImpl.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/model/entities/NguoiDung.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/quanlyquanhatkaraoke/application/TaoNguoiDung.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/model/entities/LichLamViec.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/quanlyquanhatkaraoke/test/JTableButtonTest.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/model/entities/CaLamViec.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/model/dao/jdbcimpl/LichLamViecImpl.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/quanlyquanhatkaraoke/application/DangKyLichFrm.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/quanlyquanhatkaraoke/application/NhanVienHome.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/model/dao/CaLamViecDAO.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/model/dao/LichLamViecDAO.java</file>
+            <file>file:/Users/thuongptitdev/NetBeansProjects/QuanLyQuanHatKaraoke/src/model/entities/LichDangKy.java</file>
+        </group>
+    </open-files>
+</project-private>

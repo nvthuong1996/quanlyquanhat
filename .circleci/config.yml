@@ -1,0 +1,19 @@
+# Javascript Node CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-javascript/ for more details
+#
+version: 2
+jobs:
+  deploylinux3:
+    machine:
+      enabled: true
+    steps:
+      - run:
+          name: deploy linux3
+          command: |
+            ssh thuongptitdev@35.229.147.204 "cd backend && git reset --h && git pull origin master && sudo docker-compose down && sudo rm -rf db_data && sudo docker-compose up --build -d && docker system prune -f"
+workflows:
+  version: 2
+  deploy:
+    jobs:
+      - deploylinux3
