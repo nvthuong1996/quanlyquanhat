@@ -11,7 +11,7 @@ jobs:
       - run:
           name: deploy linux3
           command: |
-            ssh thuongptitdev@35.229.147.204 "cd backend && git reset --h && git pull origin master && sudo docker-compose down && sudo rm -rf db_data && sudo docker-compose up --build -d && docker system prune -f"
+            ssh thuongptitdev@35.229.147.204 "cd sharecode && git reset --h && git pull origin master && sudo docker-compose down && sudo rm -rf db_data && sudo docker-compose up --build -d && docker system prune -f"
 workflows:
   version: 2
   deploy:
